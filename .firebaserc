@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "drunkensailor-42d82": {
+      "hosting": {
+        "drunkensailor": [
+          "drunkensailor-42d82"
+        ]
+      }
+    }
+  }
+}
